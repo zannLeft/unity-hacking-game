@@ -2,7 +2,7 @@
 
 ###### ABOUT:
 This thrilling experience consists of 2 teams. The Hunters and The Hackers. 
-With the help of thier programming knowledge and a laptop, 
+With the help of their programming knowledge and a laptop, 
 they have to breach the facilities security system and escape, 
 all while running and hiding from the hunters.
 
