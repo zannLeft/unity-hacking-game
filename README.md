@@ -3,7 +3,7 @@
 ###### ABOUT:
 This thrilling experience consists of 2 teams. The Hunters and The Hackers. 
 With the help of their programming knowledge and a laptop, 
-they have to breach the facilities security system and escape, 
+they have to breach the facility's security system and escape, 
 all while running and hiding from the hunters.
 
 The project is being built using the Unity cross-platform game engine and written in C#.
